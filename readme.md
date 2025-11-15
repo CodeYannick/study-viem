@@ -44,6 +44,7 @@ src/
 - [Viem 官方文档](https://viem.sh/)
 - [以太坊开发文档](https://ethereum.org/developers/)
 - [Solidity 文档](https://docs.soliditylang.org/)
+- https://learnblockchain.cn/article/8465
 
 ## 下一步
 
